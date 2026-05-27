@@ -1,6 +1,6 @@
 # Bruno Barbosa
 
-Desenvolvedor Full Stack com mais de 3 anos de experiência criando soluções web modernas — de landing pages de alta conversão a sistemas completos de logística. Forte foco em front-end, com interfaces responsivas, rápidas e visualmente atrativas. Também atuo no back-end, integrando APIs, gerenciando bancos de dados e entregando sistemas robustos do início ao fim.
+Desenvolvedor Full Stack com mais de 3 anos de experiência criando soluções web modernas de landing pages de alta conversão a sistemas completos de logística. Forte foco em front-end, com interfaces responsivas, rápidas e visualmente atrativas. Também atuo no back-end, integrando APIs, gerenciando bancos de dados e entregando sistemas robustos do início ao fim.
 
 Valorizo comunicação clara, prazos cumpridos e código limpo. Meu objetivo é sempre entregar mais do que foi combinado.
 
